@@ -1,253 +1,99 @@
 #EXTM3U
 
-#EXTINF:-1,Arena Sport 1
-https://7nyaler.streamhostingcdn.top/stream/63/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",beIN Sports Afc 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/BeinAfc.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Arena Sport 2
-https://7nyaler.streamhostingcdn.top/stream/85/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa1.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Arena Sport 4
-https://7nyaler.streamhostingcdn.top/stream/67/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 2
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa2.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,D Sports
-https://7nyaler.streamhostingcdn.top/stream/84/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa3.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Prima Sports 1
-https://7nyaler.streamhostingcdn.top/stream/83/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa4.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Tyc Sports
-https://7nyaler.streamhostingcdn.top/stream/82/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa6.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Win Futbol
-https://7nyaler.streamhostingcdn.top/stream/81/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa7.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,M4 Sports
-https://7nyaler.streamhostingcdn.top/stream/80/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa8.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Digi Sports 1
-https://7nyaler.streamhostingcdn.top/stream/79/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa9.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,NBA Sports
-https://7nyaler.streamhostingcdn.top/stream/78/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa10.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,NBA Sports 2
-https://7nyaler.streamhostingcdn.top/stream/73/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa11.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,+Foot
-https://7nyaler.streamhostingcdn.top/stream/77/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa12.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Diema Sport 1
-https://7nyaler.streamhostingcdn.top/stream/27/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa13.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Diema Sport 2
-https://7nyaler.streamhostingcdn.top/stream/76/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa14.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,TSN 1
-https://7nyaler.streamhostingcdn.top/stream/44/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/2024EvenEropa15.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,TSN 2
-https://7nyaler.streamhostingcdn.top/stream/75/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda1.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,TSN 3
-https://7nyaler.streamhostingcdn.top/stream/71/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda2.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Bein Sport 1
-https://7nyaler.streamhostingcdn.top/stream/23/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda3.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Bein Sport 2
-https://7nyaler.streamhostingcdn.top/stream/14/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda4.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Bein Sports 3
-https://7nyaler.streamhostingcdn.top/stream/74/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda5.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,Max Sports 1
-https://7nyaler.streamhostingcdn.top/stream/66/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda6.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,RTL Sports
-https://7nyaler.streamhostingcdn.top/stream/65/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda7.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,S Sports
-https://7nyaler.streamhostingcdn.top/stream/64/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda8.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,S Sports 2
-https://7nyaler.streamhostingcdn.top/stream/52/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ZOEGY9CVjxPQjuYzlCsyRyQBKFtK4tRWRVUvJ6htWA&s=10" tvg-id="itzplay.id" group-title="beIN Sports",TV 1
+https://raw.githubusercontent.com/B-inal-123/bein-s/inal-22/LigaBelanda9.m3u8
+https://files.catbox.moe/scx9sh.mp4
 
-#EXTINF:-1,SK 1 HD
-https://7nyaler.streamhostingcdn.top/stream/62/master.m3u8
 
-#EXTINF:-1,Polsat Sport 1
-https://7nyaler.streamhostingcdn.top/stream/61/master.m3u8
-
-#EXTINF:-1,TNT Sport 3
-https://7nyaler.streamhostingcdn.top/stream/60/master.m3u8
-
-#EXTINF:-1,TNT Sport
-https://7nyaler.streamhostingcdn.top/stream/55/master.m3u8
-
-#EXTINF:-1,RMC Sport
-https://7nyaler.streamhostingcdn.top/stream/59/master.m3u8
-
-#EXTINF:-1,CBS Network
-https://7nyaler.streamhostingcdn.top/stream/58/master.m3u8
-
-#EXTINF:-1,V2 Sport
-https://7nyaler.streamhostingcdn.top/stream/57/master.m3u8
-
-#EXTINF:-1,3 Sport
-https://7nyaler.streamhostingcdn.top/stream/56/master.m3u8
-
-#EXTINF:-1,ESPN Premium
-https://7nyaler.streamhostingcdn.top/stream/54/master.m3u8
-
-#EXTINF:-1,Canal+ Sport
-https://7nyaler.streamhostingcdn.top/stream/53/master.m3u8
-
-#EXTINF:-1,SRF Sport
-https://7nyaler.streamhostingcdn.top/stream/51/master.m3u8
-
-#EXTINF:-1,ORF 1
-https://7nyaler.streamhostingcdn.top/stream/50/master.m3u8
-
-#EXTINF:-1,3+ Sport
-https://7nyaler.streamhostingcdn.top/stream/49/master.m3u8
-
-#EXTINF:-1,Arena 2 Premium
-https://7nyaler.streamhostingcdn.top/stream/48/master.m3u8
-
-#EXTINF:-1,Arena 1 Premium
-https://7nyaler.streamhostingcdn.top/stream/33/master.m3u8
-
-#EXTINF:-1,Premier Sport 1
-https://7nyaler.streamhostingcdn.top/stream/47/master.m3u8
-
-#EXTINF:-1,TV100
-https://7nyaler.streamhostingcdn.top/stream/46/master.m3u8
-
-#EXTINF:-1,1Dr
-https://7nyaler.streamhostingcdn.top/stream/45/master.m3u8
-
-#EXTINF:-1,Sportv
-https://7nyaler.streamhostingcdn.top/stream/43/master.m3u8
-
-#EXTINF:-1,Sportv 1
-https://7nyaler.streamhostingcdn.top/stream/20/master.m3u8
-
-#EXTINF:-1,Rai 1 HD
-https://7nyaler.streamhostingcdn.top/stream/42/master.m3u8
-
-#EXTINF:-1,RSI La 2
-https://7nyaler.streamhostingcdn.top/stream/41/master.m3u8
-
-#EXTINF:-1,1 TV
-https://7nyaler.streamhostingcdn.top/stream/40/master.m3u8
-
-#EXTINF:-1,Sky Sport Main Event
-https://7nyaler.streamhostingcdn.top/stream/19/master.m3u8
-
-#EXTINF:-1,Sky Sport Football
-https://7nyaler.streamhostingcdn.top/stream/39/master.m3u8
-
-#EXTINF:-1,Sky Sport Premier League
-https://7nyaler.streamhostingcdn.top/stream/38/master.m3u8
-
-#EXTINF:-1,Sky Sport Austria
-https://7nyaler.streamhostingcdn.top/stream/31/master.m3u8
-
-#EXTINF:-1,Sky Sport Calcio
-https://7nyaler.streamhostingcdn.top/stream/21/master.m3u8
-
-#EXTINF:-1,Sky Sport Uno
-https://7nyaler.streamhostingcdn.top/stream/17/master.m3u8
-
-#EXTINF:-1,Sky Sport Action
-https://7nyaler.streamhostingcdn.top/stream/12/master.m3u8
-
-#EXTINF:-1,Sky Sport Max
-https://7nyaler.streamhostingcdn.top/stream/9/master.m3u8
-
-#EXTINF:-1,Sky Sport F1
-https://7nyaler.streamhostingcdn.top/stream/8/master.m3u8
-
-#EXTINF:-1,Sky Sport Arena
-https://7nyaler.streamhostingcdn.top/stream/7/master.m3u8
-
-#EXTINF:-1,Sky Sport Mix
-https://7nyaler.streamhostingcdn.top/stream/4/master.m3u8
-
-#EXTINF:-1,Sky Sport
-https://7nyaler.streamhostingcdn.top/stream/1/master.m3u8
-
-#EXTINF:-1,Liga de Campeones
-https://7nyaler.streamhostingcdn.top/stream/36/master.m3u8
-
-#EXTINF:-1,DAZN La Liga
-https://7nyaler.streamhostingcdn.top/stream/35/master.m3u8
-
-#EXTINF:-1,DAZN 1 Highlight
-https://7nyaler.streamhostingcdn.top/stream/16/master.m3u8
-
-#EXTINF:-1,DAZN 1
-https://7nyaler.streamhostingcdn.top/stream/24/master.m3u8
-
-#EXTINF:-1,DAZN 2
-https://7nyaler.streamhostingcdn.top/stream/22/master.m3u8
-
-#EXTINF:-1,Movistar+
-https://7nyaler.streamhostingcdn.top/stream/34/master.m3u8
-
-#EXTINF:-1,Movistar Deportes
-https://7nyaler.streamhostingcdn.top/stream/18/master.m3u8
-
-#EXTINF:-1,TVP Sport LAT
-https://7nyaler.streamhostingcdn.top/stream/28/master.m3u8
-
-#EXTINF:-1,Cosmote Sport
-https://7nyaler.streamhostingcdn.top/stream/26/master.m3u8
-
-#EXTINF:-1,SportDigital FSBL
-https://7nyaler.streamhostingcdn.top/stream/15/master.m3u8
-
-#EXTINF:-1,ESPN Deportes
-https://7nyaler.streamhostingcdn.top/stream/3/master.m3u8
-
-#EXTINF:-1,Rai Sport
-https://7nyaler.streamhostingcdn.top/stream/2/master.m3u8
-
-#EXTINF:-1,Unknown 70
-https://7nyaler.streamhostingcdn.top/stream/70/master.m3u8
-
-#EXTINF:-1,Unknown 72
-https://7nyaler.streamhostingcdn.top/stream/72/master.m3u8
-
-#EXTINF:-1,Unknown 69
-https://7nyaler.streamhostingcdn.top/stream/69/master.m3u8
-
-#EXTINF:-1,Unknown 68
-https://7nyaler.streamhostingcdn.top/stream/68/master.m3u8
-
-#EXTINF:-1,Unknown 37
-https://7nyaler.streamhostingcdn.top/stream/37/master.m3u8
-
-#EXTINF:-1,Unknown 32
-https://7nyaler.streamhostingcdn.top/stream/32/master.m3u8
-
-#EXTINF:-1,Unknown 30
-https://7nyaler.streamhostingcdn.top/stream/30/master.m3u8
-
-#EXTINF:-1,Unknown 29
-https://7nyaler.streamhostingcdn.top/stream/29/master.m3u8
-
-#EXTINF:-1,Unknown 25
-https://7nyaler.streamhostingcdn.top/stream/25/master.m3u8
-
-#EXTINF:-1,Unknown 13
-https://7nyaler.streamhostingcdn.top/stream/13/master.m3u8
-
-#EXTINF:-1,Unknown 11
-https://7nyaler.streamhostingcdn.top/stream/11/master.m3u8
-
-#EXTINF:-1,Unknown 10
-https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
-
-#EXTINF:-1,Unknown 5
-https://7nyaler.streamhostingcdn.top/stream/5/master.m3u8
